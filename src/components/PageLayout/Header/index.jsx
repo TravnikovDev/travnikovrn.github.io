@@ -6,7 +6,6 @@ import style from './header.module.less';
 import '../../../styles/global.less';
 import { useWindowSize } from '../../../utils/hooks';
 
-
 export default () => {
   const [menu, setMenu] = useState(false);
 
