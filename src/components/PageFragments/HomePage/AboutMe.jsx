@@ -5,12 +5,9 @@ import { stripTags, domHtml } from '../../../utils/stripTags';
 import SEO from '../../Seo';
 
 const pageText = {
-  paraOne: `Hello !! My name is Rolwin Reevan Monteiro. I'm a full stack web developer who is
-    passionate about various web technologies. I like to experiment with different web
-    technologies. I have an experience of nearly 3 years working with LAMP stack, MERN stack
-    and ELK stack. Building fancy UI's just like this one that your seeing 😅 and writing blogs about tech stacks
-    is what Rolwin loves to do. Check my blog which I update every week for some Javascript and some 
-    cool notes on web technologies.`,
+  paraOne: `I live in Saint Petersburg, Russia and I've been working as a frontend developer for the last 6+ years. 
+    I have broad experience in web development and deep knowledge of technologies such as HTML5, CSS3, JavaScript 
+    (including modern ES2015, ES6, ES7) with specialization in React.js framework and its ecosystem.`,
   paraTwo: `Currently I work mostly with Javascript technologies like ReactJS and NodeJS. I also
     have hands on experience working with cloud infrastructures like <b>AWS/GCP</b> and have deployed applications
     keeping scalability in mind. Docker, Kubernetes, Jenkins, SonarQube are some of the cool
@@ -25,7 +22,7 @@ const AboutMe = () => {
           title="About"
           description={description}
           path=""
-          keywords={['Rolwin', 'Reevan', 'Monteiro', 'FullStack developer', 'Javascript', 'ReactJS', 'NodeJS', 'Gatsby']}
+          keywords={['Travnikov', 'Roman', 'travnikov.dev', 'Frontend developer', 'Javascript', 'ReactJS', 'NodeJS', 'Gatsby']}
         />
         <h1 className="titleSeparate">About Me</h1>
         <p>
@@ -40,7 +37,7 @@ const AboutMe = () => {
             height={60}
             alt="location image"
             textH4="Born and bought up in"
-            textH3="Mangalore, KA, India"
+            textH3="Saint Petersburg, Russia"
           />
         </Col>
         <Col xs={24} sm={24} md={12} lg={8}>

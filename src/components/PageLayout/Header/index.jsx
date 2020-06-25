@@ -52,7 +52,7 @@ export default () => {
               </Link>
             </li>
             <li className={style.navItem}>
-              <Link to="/resume" onClick={toggleMenu} activeClassName={style.anchorActive}>
+              <Link to="https://drive.google.com/file/d/1KK7NddmN6BYYd2-4zPk2tUTgadgLU3Xe/view?usp=sharing" target="_blank" activeClassName={style.anchorActive}>
                 Resume
               </Link>
             </li>

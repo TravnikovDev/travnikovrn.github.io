@@ -1,12 +1,12 @@
 module.exports = {
   pathPrefix: '',
-  siteUrl: 'https://rolwinreevan.com',
-  siteTitle: 'Rolwin Reevan',
-  siteDescription: 'Logbook of a software developer',
-  author: 'Rolwin Reevan',
+  siteUrl: 'https://travnikov.dev',
+  siteTitle: 'Roman Travnikov',
+  siteDescription: 'Looking for offers in the Netherlands',
+  author: 'Roman Travnikov',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
-  disqusScript: process.env.DISQUS_SCRIPT || 'https://rolwinreevan.disqus.com/embed.js',
+  disqusScript: process.env.DISQUS_SCRIPT || 'https://travnikov.disqus.com/embed.js',
   pages: {
     home: '/',
     blog: 'blog',
@@ -15,13 +15,13 @@ module.exports = {
     tag: 'tags',
   },
   social: {
-    github: 'https://github.com/rolwin100',
-    facebook: 'https://www.facebook.com/rolwin.monteiro',
-    twitter: 'https://twitter.com/rolwin100',
-    instagram: 'https://www.instagram.com/reevan100/',
+    github: 'https://github.com/TravnikovRN',
+    facebook: 'https://www.facebook.com/TravnikovRN',
+    twitter: 'https://twitter.com/TPABHuKOB',
+    instagram: 'https://www.instagram.com/travnikov.dev/',
     rss: '/rss.xml',
   },
-  contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/09a3066f-c638-40db-ad59-05e4ed71e451',
+  contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/583c13cd-a447-4d55-802c-5ccb02103243',
   googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
   tags: {
     javascript: {

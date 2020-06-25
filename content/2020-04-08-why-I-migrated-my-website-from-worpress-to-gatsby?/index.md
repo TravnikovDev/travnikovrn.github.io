@@ -43,7 +43,7 @@ Gatsby has a lot of plugins that can be used for various other purposes. But you
 
 4. ### SEO is also taken care
 
-    One important thing for me was branding my name `Rolwin Reevan` over the internet. For this all the factors of SEO had to be taken care which is a bit challenging. Since gatsby renders static pages the performance is good, which enhances the `SEO` as well. There are plugins for SEO in gatsby. Server-Side-Rendering (`SSR`) is also supported by gatsby.
+    One important thing for me was branding my name `Roman Travnikov` over the internet. For this all the factors of SEO had to be taken care which is a bit challenging. Since gatsby renders static pages the performance is good, which enhances the `SEO` as well. There are plugins for SEO in gatsby. Server-Side-Rendering (`SSR`) is also supported by gatsby.
 
 5. ### Gatsby satisfies my use-case
 
@@ -63,7 +63,7 @@ So It depends on the use-case when to go for Gatsby and When to go for Wordpress
 
 ## Building a Gatsby application
 
-There are plenty of different ways to build gatsby websites. To start with you can look into official [gatsby docs](https://www.gatsbyjs.org/docs/) and the tutorials on their [site](https://www.gatsbyjs.org/tutorial/). There are also a list of [plugins](https://www.gatsbyjs.org/plugins/) that can help you to develop your site faster. For more comparision about Wordpress with Gatsby you can check this [link](https://www.gatsbyjs.org/features/cms/). You can go through the starters which are available over the internet. I have also open-sourced my website [Rolwin Reevan](https://rolwinreevan.com) on my [Github page](https://github.com/rolwin100/rolwinreevan_gatsby_blog). You can use this starter to build your portfolio. I have put in a lot of effort to build this starter. So please make sure you give a star for this repo.
+There are plenty of different ways to build gatsby websites. To start with you can look into official [gatsby docs](https://www.gatsbyjs.org/docs/) and the tutorials on their [site](https://www.gatsbyjs.org/tutorial/). There are also a list of [plugins](https://www.gatsbyjs.org/plugins/) that can help you to develop your site faster. For more comparision about Wordpress with Gatsby you can check this [link](https://www.gatsbyjs.org/features/cms/). You can go through the starters which are available over the internet. I have also open-sourced my website [Roman Travnikov](https://rolwinreevan.com) on my [Github page](https://github.com/rolwin100/rolwinreevan_gatsby_blog). You can use this starter to build your portfolio. I have put in a lot of effort to build this starter. So please make sure you give a star for this repo.
 
 
 
