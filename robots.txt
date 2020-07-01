@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://travnikov.dev/sitemap.xml
+Host: https://travnikov.dev
