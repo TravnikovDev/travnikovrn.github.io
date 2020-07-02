@@ -6154,10 +6154,10 @@ gatsby-plugin-eslint-v2@^2.0.0-beta.0:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-eslint-v2/-/gatsby-plugin-eslint-v2-2.0.0-beta.0.tgz#6c5748916c8cdd54f0c93a55cdc4e2e894b9b651"
   integrity sha512-LZxc82Ijw0P6nn6+3RkmcSnIoiqDppskVznyUYR7w1xUxf6ZwGB34LokXQWz21hUoRq0kEoYanGbs7dKeldOmw==
 
-gatsby-plugin-google-analytics@^2.2.2:
-  version "2.3.6"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-2.3.6.tgz#3867732a1ae65a3a00d23217cd131025f33942b4"
-  integrity sha512-hm+PXjl46mtpQ+EBXVcS4YvrewvdPi5KoPkOKrd4ivK0uAUT0rjY5vcYr1NdvF7uAFDoInL/lj1X5gMMlEXp/g==
+gatsby-plugin-google-analytics@^2.3.9:
+  version "2.3.9"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-2.3.9.tgz#a2c613166e33aac577185146fff648dc67e7c246"
+  integrity sha512-xg5zggvtnZpsqftSstX9gGTZiHD0azdLnn26e47SYVRuE/m88/dw4h0pVoHVH0knoCeOFMS+LPaxnj5ggLdwJg==
   dependencies:
     "@babel/runtime" "^7.10.3"
     minimatch "3.0.4"
